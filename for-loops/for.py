@@ -14,4 +14,4 @@ for numb in range(1, 6):
 # Start, Stop, Step
 for numb in range(0, 10, 2):
 	print(numb)
-	p
+	
